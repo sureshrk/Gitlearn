@@ -1,0 +1,211 @@
+{
+  "Config" : {
+    "LotCloseTime" : "20:00:00",
+    "LotOpenTime" : "08:30:00",
+    "MemShiftHours" : 8
+  },
+  "Members" : {
+    "MH01DG1123" : {
+      "Assigned_Spot" : "4",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Suzuki Baleno",
+      "License" : "MH01DG1123",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Ms. Shabana Sheikh",
+      "RecordNo" : "3",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH01EZ0659" : {
+      "Assigned_Spot" : "5",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Nissan Micra",
+      "License" : "MH01EZ0659",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mr. Justin Dsouza",
+      "RecordNo" : "4",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH02TR5040" : {
+      "Assigned_Spot" : "6",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Ford Endeavor",
+      "License" : "MH02TR5040",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mr. Rakesh Sherodkar",
+      "RecordNo" : "5",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH04SS3320" : {
+      "Assigned_Spot" : "2",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Suzuki Swift",
+      "License" : "MH04SS3320",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mr. Rahul Bhattacharya",
+      "RecordNo" : "1",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH43AE1234" : {
+      "Assigned_Spot" : "1",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Honda Jazz",
+      "License" : "MH43AE1234",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mr. Ganesh Verma",
+      "RecordNo" : "0",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH43FO4596" : {
+      "Assigned_Spot" : "3",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Volkswagen Polo",
+      "License" : "MH43FO4596",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mrs. Laskhmi Venkatraman",
+      "RecordNo" : "2",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    },
+    "MH43QT9987" : {
+      "Assigned_Spot" : "7",
+      "Avg_Early" : "",
+      "Avg_Late" : "",
+      "Car" : "Mahindra Verito",
+      "License" : "MH43QT9987",
+      "Median_Early" : "",
+      "Median_Late" : "",
+      "Name" : "Mrs. Sheela Kumar",
+      "RecordNo" : "6",
+      "Report_DateTime" : " 10:00:00",
+      "Report_Time" : ""
+    }
+  },
+  "Spots" : [ {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH43AE1234",
+    "SpotNo" : "1",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH04SS3320",
+    "SpotNo" : "2",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH43FO4596",
+    "SpotNo" : "3",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH01DG1123",
+    "SpotNo" : "4",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH01EZ0659",
+    "SpotNo" : "5",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH02TR5040",
+    "SpotNo" : "6",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "MH43QT9987",
+    "SpotNo" : "7",
+    "Status" : "Vacant",
+    "Type" : "Member"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "",
+    "SpotNo" : "8",
+    "Status" : "Vacant",
+    "Type" : "Outsider"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "",
+    "SpotNo" : "9",
+    "Status" : "Vacant",
+    "Type" : "Outsider"
+  }, {
+    "Activity_Path" : "",
+    "Activity_Rownum" : "",
+    "Entry_DateTime" : "",
+    "Exit_DateTime" : "",
+    "License" : "",
+    "Parker" : "",
+    "Reserved_Lic" : "",
+    "SpotNo" : "10",
+    "Status" : "Vacant",
+    "Type" : "Outsider"
+  } ]
+}

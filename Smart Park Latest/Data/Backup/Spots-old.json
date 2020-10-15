@@ -1,0 +1,122 @@
+[
+    {
+        "SpotNo": "1",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH43AE1234",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "2",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH04SS3320",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "3",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH43FO4596",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "4",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH01DG1123",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "5",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH01EZ0659",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "6",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH02TR5040",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "7",
+        "Type": "Member",
+        "Status": "Vacant",
+        "Reserved_Lic": "MH43QT9987",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "8",
+        "Type": "Outsider",
+        "Status": "Vacant",
+        "Reserved_Lic": "",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "9",
+        "Type": "Outsider",
+        "Status": "Vacant",
+        "Reserved_Lic": "",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    },
+    {
+        "SpotNo": "10",
+        "Type": "Outsider",
+        "Status": "Vacant",
+        "Reserved_Lic": "",
+        "License": "",
+        "Parker": "",
+        "Entry_DateTime": "",
+        "Exit_DateTime": "",
+        "Activity_Rownum": "",
+        "Activity_Path": ""
+    }
+]

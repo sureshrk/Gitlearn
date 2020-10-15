@@ -1,0 +1,86 @@
+{
+    "MH04FA488": {
+        "RecNo": "0",
+        "Name": "Mr. Ganesh Verma",
+        "Car": "Maruti Suzuki Wagon R",
+        "License": "MH04FA488",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "1",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH04DJ0746": {
+        "RecNo": "1",
+        "Name": "Mr. Rahul Bhattacharya",
+        "Car": "Hyundai Santro",
+        "License": "MH04DJ0746",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "2",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH46N4312": {
+        "RecNo": "2",
+        "Name": "Mrs. Laskhmi Venkatraman",
+        "Car": "Maruti Suzuki EECO",
+        "License": "MH46N4312",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "3",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH46AU1589": {
+        "RecNo": "3",
+        "Name": "Ms. Shabana Sheikh",
+        "Car": "Hyundai SUV",
+        "License": "MH46AU1589",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "4",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH46W1408": {
+        "RecNo": "4",
+        "Name": "Mr. Justin Dsouza",
+        "Car": "Hyundai Santro New",
+        "License": "MH46W1408",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "5",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH43AW2192": {
+        "RecNo": "5",
+        "Name": "Mr. Rakesh Sherodkar",
+        "Car": "Maruti Suzuki Wagon R New",
+        "License": "MH43AW2192",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "6",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH43QT9987": {
+        "RecNo": "6",
+        "Name": "Mrs. Sheela Kumar",
+        "Car": "Mahindra Verito",
+        "License": "MH43QT9987",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "7",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    }
+}

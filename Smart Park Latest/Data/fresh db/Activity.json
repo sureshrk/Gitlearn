@@ -1,0 +1,20 @@
+{
+    "99999999": [
+        {
+            "RecordNo": "",
+            "Parker": "",
+            "License": "",
+            "Report_Time": "",
+            "Report_DateTime": "",
+            "Entry_Time": "",
+            "Entry_DateTime": "",
+            "Spot": "",
+            "Early": "",
+            "Late": "",
+            "Exit_Time": "",
+            "Exit_DateTime": "",
+            "CarImage_Path": ""
+        }
+        
+    ]
+}

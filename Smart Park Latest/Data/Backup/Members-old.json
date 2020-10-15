@@ -1,0 +1,93 @@
+{
+    "MH43AE1234": {
+        "RecordNo": "0",
+        "Name": "Mr. Ganesh Verma",
+        "Car": "Honda Jazz",
+        "License": "MH43AE1234",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "1",
+        "Median_Early": "0",
+        "Median_Late": "-545.5",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH04SS3320": {
+        "RecordNo": "1",
+        "Name": "Mr. Rahul Bhattacharya",
+        "Car": "Suzuki Swift",
+        "License": "MH04SS3320",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "2",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH43FO4596": {
+        "RecordNo": "2",
+        "Name": "Mrs. Laskhmi Venkatraman",
+        "Car": "Volkswagen Polo",
+        "License": "MH43FO4596",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "3",
+        "Median_Early": "564.5",
+        "Median_Late": "0",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH01DG1123": {
+        "RecordNo": "3",
+        "Name": "Ms. Shabana Sheikh",
+        "Car": "Suzuki Baleno",
+        "License": "MH01DG1123",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "4",
+        "Median_Early": "64",
+        "Median_Late": "-153",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH01EZ0659": {
+        "RecordNo": "4",
+        "Name": "Mr. Justin Dsouza",
+        "Car": "Nissan Micra",
+        "License": "MH01EZ0659",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "5",
+        "Median_Early": "47.5",
+        "Median_Late": "-32",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH02TR5040": {
+        "RecordNo": "5",
+        "Name": "Mr. Rakesh Sherodkar",
+        "Car": "Ford Endeavor",
+        "License": "MH02TR5040",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "6",
+        "Median_Early": "",
+        "Median_Late": "",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    },
+    "MH43QT9987": {
+        "RecordNo": "6",
+        "Name": "Mrs. Sheela Kumar",
+        "Car": "Mahindra Verito",
+        "License": "MH43QT9987",
+        "Report_Time": "",
+        "Report_DateTime": " 10:00:00",
+        "Assigned_Spot": "7",
+        "Median_Early": "0",
+        "Median_Late": "-769",
+        "Avg_Early": "",
+        "Avg_Late": ""
+    }
+}

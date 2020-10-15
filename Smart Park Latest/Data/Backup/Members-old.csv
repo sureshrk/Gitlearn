@@ -1,0 +1,8 @@
+﻿RecNo,Name,Car,License,Report_DateTime,Assigned_Spot,Median_Early,Median_Late,Avg_Early,Avg_Late
+0,Mr. Ganesh Verma,Honda Jazz,MH43AE1234, 10:00:00,1,0,-545.5,,
+1,Mr. Rahul Bhattacharya,Suzuki Swift,MH04SS3320, 10:00:00,2,,,,
+2,Mrs. Laskhmi Venkatraman,Volkswagen Polo,MH43FO4596, 10:00:00,3,564.5,0,,
+3,Ms. Shabana Sheikh,Suzuki Baleno,MH01DG1123, 10:00:00,4,64,-153,,
+4,Mr. Justin Dsouza,Nissan Micra,MH01EZ0659, 10:00:00,5,47.5,-32,,
+5,Mr. Rakesh Sherodkar,Ford Endeavor,MH02TR5040, 10:00:00,6,,,,
+6,Mrs. Sheela Kumar,Mahindra Verito,MH43QT9987, 10:00:00,7,0,-769,,

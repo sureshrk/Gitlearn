@@ -1,0 +1,8 @@
+RecNo,Name,Car,License,Report_DateTime,Assigned_Spot,Median_Early,Median_Late,Avg_Early,Avg_Late
+0,Mr. Ganesh Verma,Maruti Suzuki Wagon R,MH04FA488, 10:00:00,1,,,,
+1,Mr. Rahul Bhattacharya,Hyundai Santro,MH04DJ0746, 10:00:00,2,,,,
+2,Mrs. Laskhmi Venkatraman,Maruti Suzuki EECO,MH46N4312, 10:00:00,3,,,,
+3,Ms. Shabana Sheikh,Hyundai SUV,MH46AU1589, 10:00:00,4,,,,
+4,Mr. Justin Dsouza,Hyundai Santro New,MH46W1408, 10:00:00,5,,,,
+5,Mr. Rakesh Sherodkar,Maruti Suzuki Wagon R New,MH43AW2192, 10:00:00,6,,,,
+6,Mrs. Sheela Kumar,Mahindra Verito,MH43QT9987, 10:00:00,7,,,,
