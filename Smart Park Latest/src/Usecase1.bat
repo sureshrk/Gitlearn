@@ -10,3 +10,9 @@ pause
 python src\mainapp.py -l "MH04FA488"
 echo ---------------
 echo ----------------
+sdf
+sdfsd
+fs
+fssdf
+sdffsd
+fssdf
